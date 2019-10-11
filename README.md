@@ -1,3 +1,1 @@
-# general-wiki
-
-Este repositório possui uma wiki para dicas e tutoriais gerais: https://github.com/ITVRoC/general-wiki/wiki
+Este repositório contém todos documentos necessários para verificação do drones antes de voo, e também para manutenção. Há, também, tutoriais de uso do DECEA - SARPAS.
